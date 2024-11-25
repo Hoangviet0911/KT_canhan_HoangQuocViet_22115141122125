@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+
+
+    <item
+        android:id="@+id/menu_find"
+        android:icon="@drawable/find"
+        android:title="Search"/>
+    <item
+        android:id="@+id/menu_bookmark"
+        android:icon="@drawable/bookmark"
+        android:title="Book Mark"/>
+    <item
+        android:id="@+id/menu_temp"
+        android:icon="@drawable/temp"
+        android:title="Temp"/>
+    <item
+        android:id="@+id/menu_user"
+        android:icon="@drawable/ic_user"
+        android:title="User"/>
+</menu>
